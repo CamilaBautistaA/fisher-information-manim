@@ -1,0 +1,10 @@
+# Salidas de Manim / manim-slides
+media/
+slides/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+.DS_Store
